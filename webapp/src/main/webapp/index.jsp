@@ -11,7 +11,7 @@
     <input type="text" placeholder="Enter Last Name" name="lname" id="lname" required>
     <br>
 
-    <label for="fname"><b>Father Name</b></label>
+    <label for="fname"><b>Father Names</b></label>
     <input type="text" placeholder="Enter Father Name" name="fname" id="fname" required>
     <br>
     <label for="mname"><b>Mother Name</b></label>
