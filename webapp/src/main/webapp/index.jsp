@@ -11,6 +11,11 @@
     <input type="text" placeholder="Enter Last Name" name="lname" id="lname" required>
     <br>
 
+    <label for="fname"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father Name" name="fname" id="fname" required>
+    <br>
+
+ 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
