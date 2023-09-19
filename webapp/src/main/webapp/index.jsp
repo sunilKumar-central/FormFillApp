@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill in this form</p>
+    <p>Please fill the bellow form</p>
     <hr>
 
     <label for="fname"><b>First Name</b></label>
